@@ -111,10 +111,12 @@ nav span {
     justify-content: center;
     flex-direction: column;
     flex-basis: 280px;
+    border-radius: 10px;
 }
 
 #contact {
     height: 200px;
+    margin-top: 10px;
 }
 
 footer {
